@@ -5,7 +5,7 @@ $(function() {
     var content = {
         "taylor" : {
             name : 'Taylor Dronfield',
-            img : 'images/pink_smoke.jpg',
+            img : 'images/taylor.jpg',
             desp1 : 'Fanshawe Student',
             desp2 : 'I am from Ontario, Canada',
             desp3 : 'I am in the Interactive Media Design program.',
