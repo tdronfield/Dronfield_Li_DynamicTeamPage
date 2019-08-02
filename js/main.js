@@ -7,9 +7,9 @@ $(function() {
             name : 'Taylor Dronfield',
             img : 'images/pink_smoke.jpg',
             desp1 : 'Fanshawe Student',
-            desp2 : 'this is some info about me',
-            desp3 : 'here is some more stuff <br>this is my bio',
-            desp4 : 'this is some info about me <br>here is some more stuff'
+            desp2 : 'I am from Ontario, Canada',
+            desp3 : 'I am in the Interactive Media Design program.',
+            desp4 : 'I like longboarding, photography, and music.'
         },
         'mengyang':{
             name : 'Mengyang Li',
